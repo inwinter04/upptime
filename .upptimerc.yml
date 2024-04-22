@@ -33,6 +33,70 @@ status-website:
       href: https://nav.iamdt.cn/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
+      
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+i18n:
+  activeIncidents: 活跃事件
+  allSystemsOperational: 所有系统运行正常
+  incidentReport: "事件 #$NUMBER 报告 →"
+  activeIncidentSummary: 于 $DATE 开启 $POSTS 条帖子
+  incidentTitle: 事件 $NUMBER 详细信息
+  incidentDetails: 事件详情
+  incidentFixed: 已修复
+  incidentOngoing: 正在进行中
+  incidentOpenedAt: 开启于
+  incidentClosedAt: 关闭于
+  incidentViewOnGitHub: 在 Github 上查看和订阅
+  incidentCommentSummary: $DATE 由 $AUTHOR 发布
+  incidentBack: ← 返回所有事件
+  pastIncidents: 过去的事件
+  pastIncidentsResolved: 在 $MINUTES 分钟内解决，共 $POSTS 条帖子
+  liveStatus: 实时状态
+  overallUptime: "总运行时间: $UPTIME"
+  overallUptimeTitle: 总运行时间
+  averageResponseTime: "平均响应时间: $TIMEms"
+  averageResponseTimeTitle: 平均响应时间
+  sevelDayResponseTime: 7天平均响应时间
+  responseTimeMs: 响应时间 (ms)
+  up: 正常
+  down: 宕机
+  degraded: 性能下降
+  ms: ms
+  loading: 加载中
+  navGitHub: GitHub
+  footer: 2024 © 冬天的小窝
+  rateLimitExceededTitle: 超出速率限制
+  rateLimitExceededIntro: 您已超出每小时请求的数量，因此您需要等待一段时间才能再次访问本网站。或者，您可以添加一个 GitHub 个人访问令牌以继续使用本网站。
+  rateLimitExceededWhatDoesErrorMean: 这个错误是什么意思？
+  rateLimitExceededErrorMeaning: 本网站使用 GitHub API 来获取我们网站状态的实时数据。默认情况下，GitHub 允许每个 IP 地址每小时 60 个请求，您已经用完了。
+  rateLimitExceededErrorHowCanFix: 我该如何解决？
+  rateLimitExceededErrorFix: 您可以再等一个小时，您的 IP 地址的限制将被恢复。或者，您可以添加您的 GitHub 个人访问令牌，它提供额外的每小时 5000 个请求。
+  rateLimitExceededGeneratePAT: 了解如何生成个人访问令牌
+  rateLimitExceededHasSet: 您已设置个人访问令牌。
+  rateLimitExceededRemoveToken: 移除令牌
+  rateLimitExceededGitHubPAT: GitHub 个人访问令牌
+  rateLimitExceededCopyPastePAT: 复制并粘贴您的令牌
+  rateLimitExceededSaveToken: 保存
+  errorTitle: 发生错误
+  errorIntro: 尝试获取最新状态详情时出现错误。
+  errorText: 您可以在几分钟后再试。
+  errorHome: 返回首页
+  pastScheduledMaintenance: 过去的计划维护
+  scheduledMaintenance: 计划维护
+  scheduledMaintenanceSummaryStarted: 于 $DATE 开始，持续 $DURATION 分钟
+  scheduledMaintenanceSummaryStarts: 于 $DATE 开始，持续 $DURATION 分钟
+  startedAt: 开始于
+  startsAt: 将开始于
+  duration: 持续时间
+  durationMin: 持续 $DURATION 分钟
+  incidentCompleted: 已完成
+  incidentScheduled: 已计划
+  duration24H: 24h
+  duration7D: 7d
+  duration30D: 30d
+  duration1Y: 1y
+  durationAll: 全部
+
+
