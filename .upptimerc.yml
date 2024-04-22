@@ -3,6 +3,10 @@ owner: inwinter04 # Your GitHub organization or username, where this repository 
 repo: upptime # The name of this repository
 
 sites:
+  - name: 冬天的服务器
+    check: "tcp-ping"
+    url: $ServerIP
+    port: $ServerPort
   - name: 冬天的小窝
     url: https://www.iamdt.cn/
   - name: 冬天的图床
