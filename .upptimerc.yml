@@ -3,19 +3,15 @@ owner: inwinter04 # Your GitHub organization or username, where this repository 
 repo: upptime # The name of this repository
 
 sites:
-  - name: 冬天的服务器S1
-    check: "tcp-ping"
-    url: $ServerIP
-    port: $ServerPort
-  - name: 冬天的小窝S1W3
+  - name: 冬天的小窝 S1W3
     url: https://www.iamdt.cn/
-  - name: 冬天的图床S1W2
+  - name: 冬天的图床 S1W2
     url: https://pic.iamdt.cn/
-  - name: 冬天的导航站SVW2
+  - name: 冬天的个人主页 S1W1
     url: https://me.iamdt.cn/
-  - name: 冬天的个人主页S1W1
+  - name: 冬天的导航站 SVW2
     url: https://me.iamdt.cn/
-  - name: 冬天的必应壁纸SVW1
+  - name: 冬天的必应壁纸 SVW1
     url: https://bing.iamdt.cn/
   - name: 阿里云OSS节点
     url: https://img.iamdt.cn/2024/03/16/65f56d4dd7bae.ico
