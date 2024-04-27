@@ -22,19 +22,19 @@
     "url": "https://pic.iamdt.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/pic.iamdt.cn.ico",
     "slug": "s1-w2",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 10271,
-    "timeDay": 24399,
-    "timeWeek": 10271,
-    "timeMonth": 10271,
-    "timeYear": 10271,
+    "status": "up",
+    "uptime": "99.14%",
+    "uptimeDay": "95.77%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.14%",
+    "uptimeYear": "99.14%",
+    "time": 9931,
+    "timeDay": 15635,
+    "timeWeek": 9931,
+    "timeMonth": 9931,
+    "timeYear": 9931,
     "dailyMinutesDown": {
-      "2024-04-27": 0
+      "2024-04-27": 61
     }
   },
   {
