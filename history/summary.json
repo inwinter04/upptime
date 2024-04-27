@@ -22,7 +22,7 @@
     "url": "https://pic.iamdt.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/pic.iamdt.cn.ico",
     "slug": "s1-w2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 10271,
     "timeMonth": 10271,
     "timeYear": 10271,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-27": 0
+    }
   },
   {
     "name": "冬天的个人主页 S1W1",
