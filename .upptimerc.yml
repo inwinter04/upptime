@@ -61,9 +61,6 @@ i18n:
   averageResponseTimeTitle: 平均响应时间
   sevelDayResponseTime: 7天平均响应时间
   responseTimeMs: 响应时间 (ms)
-  up: 正常
-  down: 宕机
-  degraded: 性能下降
   ms: ms
   loading: 加载中
   navGitHub: GitHub
