@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 572,
     "timeDay": 485,
-    "timeWeek": 594,
+    "timeWeek": 611,
     "timeMonth": 572,
     "timeYear": 572,
     "dailyMinutesDown": {}
@@ -22,19 +22,19 @@
     "url": "https://pic.iamdt.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/pic.iamdt.cn.ico",
     "slug": "s1-w2",
-    "status": "up",
-    "uptime": "97.72%",
-    "uptimeDay": "83.46%",
-    "uptimeWeek": "96.23%",
-    "uptimeMonth": "97.72%",
-    "uptimeYear": "97.72%",
+    "status": "down",
+    "uptime": "97.78%",
+    "uptimeDay": "85.38%",
+    "uptimeWeek": "96.32%",
+    "uptimeMonth": "97.78%",
+    "uptimeYear": "97.78%",
     "time": 16247,
     "timeDay": 21631,
-    "timeWeek": 18541,
+    "timeWeek": 18316,
     "timeMonth": 16247,
     "timeYear": 16247,
     "dailyMinutesDown": {
-      "2024-05-03": 189,
+      "2024-05-03": 180,
       "2024-05-02": 129,
       "2024-04-27": 61
     }
@@ -52,7 +52,7 @@
     "uptimeYear": "100.00%",
     "time": 489,
     "timeDay": 525,
-    "timeWeek": 598,
+    "timeWeek": 603,
     "timeMonth": 489,
     "timeYear": 489,
     "dailyMinutesDown": {}
@@ -70,7 +70,7 @@
     "uptimeYear": "100.00%",
     "time": 46,
     "timeDay": 7,
-    "timeWeek": 7,
+    "timeWeek": 6,
     "timeMonth": 46,
     "timeYear": 46,
     "dailyMinutesDown": {}
@@ -88,7 +88,7 @@
     "uptimeYear": "100.00%",
     "time": 426,
     "timeDay": 572,
-    "timeWeek": 445,
+    "timeWeek": 467,
     "timeMonth": 426,
     "timeYear": 426,
     "dailyMinutesDown": {}
