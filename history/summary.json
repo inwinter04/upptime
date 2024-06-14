@@ -4,18 +4,20 @@
     "url": "https://www.iamdt.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/www.iamdt.cn.ico",
     "slug": "s1-w3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 560,
-    "timeDay": 557,
-    "timeWeek": 631,
-    "timeMonth": 543,
-    "timeYear": 560,
-    "dailyMinutesDown": {}
+    "time": 683,
+    "timeDay": 4225,
+    "timeWeek": 1539,
+    "timeMonth": 765,
+    "timeYear": 683,
+    "dailyMinutesDown": {
+      "2024-06-14": 0
+    }
   },
   {
     "name": "冬天的个人主页 S1W1",
