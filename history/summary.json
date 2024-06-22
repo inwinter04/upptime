@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.iamdt.cn.ico",
     "slug": "s1-w3",
     "status": "down",
-    "uptime": "91.49%",
+    "uptime": "91.09%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "27.86%",
-    "uptimeMonth": "83.03%",
-    "uptimeYear": "91.49%",
+    "uptimeWeek": "25.15%",
+    "uptimeMonth": "82.15%",
+    "uptimeYear": "91.09%",
     "time": 1910,
     "timeDay": 5101,
-    "timeWeek": 2498,
+    "timeWeek": 2532,
     "timeMonth": 2149,
     "timeYear": 1910,
     "dailyMinutesDown": {
-      "2024-06-22": 45,
+      "2024-06-22": 431,
       "2024-06-21": 1440,
       "2024-06-20": 1440,
       "2024-06-19": 1440,
@@ -32,10 +32,10 @@
     "url": "https://me.iamdt.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/me.iamdt.cn.ico",
     "slug": "s1-w1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 521,
@@ -43,16 +43,18 @@
     "timeWeek": 499,
     "timeMonth": 539,
     "timeYear": 521,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-22": 1
+    }
   },
   {
     "name": "冬天的导航站 SVW2",
     "url": "https://me.iamdt.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/me.iamdt.cn.ico",
     "slug": "svw-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -61,7 +63,9 @@
     "timeWeek": 20,
     "timeMonth": 12,
     "timeYear": 21,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-22": 0
+    }
   },
   {
     "name": "冬天的必应壁纸 SVW1",
