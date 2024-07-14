@@ -4,18 +4,19 @@
     "url": "https://www.iamdt.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/www.iamdt.cn.ico",
     "slug": "s1-w3",
-    "status": "up",
-    "uptime": "82.36%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "52.07%",
-    "uptimeYear": "82.36%",
+    "status": "down",
+    "uptime": "82.43%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "52.11%",
+    "uptimeYear": "82.43%",
     "time": 2165,
     "timeDay": 2627,
     "timeWeek": 2942,
-    "timeMonth": 2550,
+    "timeMonth": 2548,
     "timeYear": 2165,
     "dailyMinutesDown": {
+      "2024-07-14": 2,
       "2024-07-02": 467,
       "2024-07-01": 790,
       "2024-06-30": 1440,
@@ -42,10 +43,10 @@
     "url": "https://me.iamdt.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/me.iamdt.cn.ico",
     "slug": "s1-w1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 540,
@@ -53,17 +54,19 @@
     "timeWeek": 560,
     "timeMonth": 577,
     "timeYear": 540,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-14": 1
+    }
   },
   {
     "name": "冬天的导航站 SVW2",
     "url": "https://me.iamdt.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/me.iamdt.cn.ico",
     "slug": "svw-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 20,
@@ -71,7 +74,9 @@
     "timeWeek": 11,
     "timeMonth": 17,
     "timeYear": 20,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-14": 1
+    }
   },
   {
     "name": "冬天的必应壁纸 SVW1",
@@ -96,9 +101,9 @@
     "url": "https://img.iamdt.cn/2024/03/16/65f56d4dd7bae.ico",
     "icon": "https://icons.duckduckgo.com/ip3/img.iamdt.cn.ico",
     "slug": "oss",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -108,6 +113,7 @@
     "timeMonth": 482,
     "timeYear": 533,
     "dailyMinutesDown": {
+      "2024-07-14": 0,
       "2024-07-01": 17
     }
   }
