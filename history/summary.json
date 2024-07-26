@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.iamdt.cn.ico",
     "slug": "s1-w3",
     "status": "up",
-    "uptime": "84.46%",
+    "uptime": "84.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.14%",
-    "uptimeMonth": "80.38%",
-    "uptimeYear": "84.46%",
+    "uptimeMonth": "80.88%",
+    "uptimeYear": "84.49%",
     "time": 2172,
     "timeDay": 2011,
     "timeWeek": 2102,
@@ -47,11 +47,11 @@
     "url": "https://me.iamdt.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/me.iamdt.cn.ico",
     "slug": "s1-w1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
     "time": 651,
     "timeDay": 1303,
@@ -59,6 +59,7 @@
     "timeMonth": 895,
     "timeYear": 651,
     "dailyMinutesDown": {
+      "2024-07-26": 0,
       "2024-07-15": 15,
       "2024-07-14": 26
     }
@@ -68,9 +69,9 @@
     "url": "https://me.iamdt.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/me.iamdt.cn.ico",
     "slug": "svw-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
@@ -80,6 +81,7 @@
     "timeMonth": 100,
     "timeYear": 47,
     "dailyMinutesDown": {
+      "2024-07-26": 0,
       "2024-07-14": 25
     }
   },
