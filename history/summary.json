@@ -4,18 +4,19 @@
     "url": "https://www.iamdt.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/www.iamdt.cn.ico",
     "slug": "s1-w3",
-    "status": "up",
-    "uptime": "90.37%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "90.41%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.67%",
-    "uptimeYear": "90.37%",
-    "time": 2186,
-    "timeDay": 1782,
-    "timeWeek": 2085,
-    "timeMonth": 2152,
-    "timeYear": 2186,
+    "uptimeYear": "90.41%",
+    "time": 2191,
+    "timeDay": 3317,
+    "timeWeek": 2301,
+    "timeMonth": 2196,
+    "timeYear": 2191,
     "dailyMinutesDown": {
+      "2024-09-25": 0,
       "2024-09-02": 71,
       "2024-09-01": 28,
       "2024-08-26": 18,
@@ -54,7 +55,7 @@
       "2024-06-17": 848,
       "2024-06-16": 1143,
       "2024-06-15": 458,
-      "2024-06-14": 69
+      "2024-06-14": 30
     }
   },
   {
