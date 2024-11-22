@@ -6,9 +6,9 @@
     "slug": "s1-w3",
     "status": "up",
     "uptime": "93.01%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "93.01%",
     "time": 2265,
     "timeDay": 2867,
@@ -16,7 +16,6 @@
     "timeMonth": 2799,
     "timeYear": 2265,
     "dailyMinutesDown": {
-      "2024-11-22": 14,
       "2024-11-20": 28,
       "2024-11-19": 15,
       "2024-11-14": 15,
@@ -61,7 +60,7 @@
       "2024-06-18": 463,
       "2024-06-17": 848,
       "2024-06-16": 1143,
-      "2024-06-15": 282
+      "2024-06-15": 302
     }
   },
   {
@@ -167,9 +166,9 @@
     "url": "https://img.iamdt.cn/2024/03/16/65f56d4dd7bae.ico",
     "icon": "https://icons.duckduckgo.com/ip3/img.iamdt.cn.ico",
     "slug": "oss",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.80%",
@@ -179,6 +178,7 @@
     "timeMonth": 1132,
     "timeYear": 1013,
     "dailyMinutesDown": {
+      "2024-11-22": 0,
       "2024-11-08": 25,
       "2024-10-31": 23,
       "2024-10-23": 18,
