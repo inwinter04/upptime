@@ -4,18 +4,19 @@
     "url": "https://www.iamdt.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/www.iamdt.cn.ico",
     "slug": "s1-w3",
-    "status": "up",
-    "uptime": "94.08%",
-    "uptimeDay": "98.53%",
+    "status": "down",
+    "uptime": "94.09%",
+    "uptimeDay": "98.52%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.43%",
-    "uptimeYear": "94.08%",
+    "uptimeYear": "94.09%",
     "time": 2313,
     "timeDay": 2528,
     "timeWeek": 2843,
     "timeMonth": 2882,
     "timeYear": 2313,
     "dailyMinutesDown": {
+      "2025-01-01": 0,
       "2024-12-31": 21,
       "2024-12-22": 67,
       "2024-12-14": 46,
@@ -66,7 +67,7 @@
       "2024-06-18": 463,
       "2024-06-17": 848,
       "2024-06-16": 1143,
-      "2024-06-15": 139
+      "2024-06-15": 98
     }
   },
   {
@@ -178,9 +179,9 @@
     "slug": "oss",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.80%",
     "time": 1050,
     "timeDay": 1590,
@@ -188,7 +189,6 @@
     "timeMonth": 1284,
     "timeYear": 1050,
     "dailyMinutesDown": {
-      "2025-01-01": 10,
       "2024-12-30": 30,
       "2024-11-30": 22,
       "2024-11-29": 31,
